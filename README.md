@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
-<!--
-**SamuelePassiatore/SamuelePassiatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer with philosophy degree
 
-Here are some ideas to get you started:
+*Connect with Me:*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](linkedin.com/in/samuele-passiatore-854549194)
+
+<br/>
+
+---
+
+*Languages, Tools & Frameworks:*
+
+<img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
+<img align='left' alt='HTML' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='35'>
+<img align='left' alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
+<img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='35'>
+<img align='left' alt='JavaScript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
+<br/>
+<br/>
+
+---
