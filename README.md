@@ -4,7 +4,7 @@ Aspiring developer with philosophy degree
 
 *Connect with Me:*
 
-[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](linkedin.com/in/samuele-passiatore-854549194)
+[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](https://www.linkedin.com/in/samuele-passiatore-dev)
 
 <br/>
 
