@@ -1,6 +1,6 @@
 # Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
-Aspiring developer with philosophy degree
+Aspiring developer with philosophy degree / Student at @Boolean Careers
 
 *Connect with Me:*
 
@@ -21,3 +21,5 @@ Aspiring developer with philosophy degree
 <br/>
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore)](https://github.com/SamuelePassiatore/github-readme-stats)
