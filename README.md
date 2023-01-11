@@ -27,6 +27,7 @@ Aspiring developer with philosophy degree / Student at @Boolean Careers
 
 ## :trophy: My Github Stats:
 
-[![SamuelePassiatore github stats](https://github-readme-stats.vercel.app/api?username=SamuelePassiatore&show_icons=true&theme=merko)](https://github.com/SamuelePassiatore/github-readme-stats)
+![Samuele GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelePassiatore&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore)](https://github.com/SamuelePassiatore/github-readme-stats)
+
