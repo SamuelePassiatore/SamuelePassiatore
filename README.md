@@ -1,6 +1,4 @@
-<img alt='code' title="code" src="https://wcs.uwo.ca/upload/CE0060b.png" style="height: 200px; width:100%; background-size: cover;">
-
-<br/>
+<img alt='code' title="code" src="https://wcs.uwo.ca/upload/CE0060b.png" style="height: 200px; width:100%; background-size: cover; background-size: contain">
 
 # Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
