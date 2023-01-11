@@ -1,4 +1,4 @@
-<img alt='code' title="code" src="/Documents/varie.jpg" style="height: 200px; width:100%; background-size: cover;">
+<img alt='code' title="code" src="https://wcs.uwo.ca/upload/CE0060b.png" style="height: 200px; width:100%; background-size: cover;">
 
 <br/>
 
