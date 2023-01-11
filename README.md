@@ -1,4 +1,4 @@
-<img alt='code' title="code-background" src="[https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png](https://res.cloudinary.com/practicaldev/image/fetch/s--4A7sAvF4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lsxjyrrdrgyynszj2bm7.jpg)" style="height: 200px; width:100%;">
+<img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" style="height: 200px; width:100%;">
 
 <br/>
 
