@@ -4,6 +4,8 @@
 
 Aspiring developer with philosophy degree / Student at @Boolean Careers
 
+---
+
 *Languages, Tools & Frameworks:*
 
 <img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
