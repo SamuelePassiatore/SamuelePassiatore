@@ -4,6 +4,12 @@
 
 Aspiring developer with philosophy degree / Student at @Boolean Careers
 
+*Contact Me:*
+
+[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](https://www.linkedin.com/in/samuele-passiatore-dev)
+
+<br/>
+
 ---
 
 *Languages, Tools & Frameworks:*
@@ -19,12 +25,5 @@ Aspiring developer with philosophy degree / Student at @Boolean Careers
 
 ---
 
-*Contact Me:*
-
-[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](https://www.linkedin.com/in/samuele-passiatore-dev)
-
-<br/>
-
----
 
 
