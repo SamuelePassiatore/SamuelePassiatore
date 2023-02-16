@@ -1,6 +1,6 @@
 <img alt='code' title="code" src="https://wcs.uwo.ca/upload/CE0060b.png" style="height: 200px; width:100%; background-size: cover; background-size: contain">
 
-# Hello World, I'm [<span style="color: yellow">Samuele Passiatore</span>](https://github.com/SamuelePassiatore)
+# Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
 Aspiring developer with philosophy degree / Student at @Boolean Careers
 
@@ -28,11 +28,11 @@ Aspiring developer with philosophy degree / Student at @Boolean Careers
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=merko&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=yeblu&showicons=true)]()
 
 ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=merko)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=yeblu)]()
 
 
 
