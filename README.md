@@ -19,10 +19,11 @@ Aspiring developer with philosophy degree / Student at @Boolean Careers
 <img align='left' alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
 <img align='left' alt='SASS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
 <img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='35'>
-<img align='left' alt='JavaScript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="35">
 <img align='left' alt='Vue.js' title="Vue.js" src="https://vuejs.org/images/logo.png" width='35'>
 <img align='left' alt='PHP' title="PHP" src="https://www.php.net/images/logos/php-logo-white.svg" width='35'>
 <img align='left' alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
+<img align='left' alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <br/>
 <br/>
 
