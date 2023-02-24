@@ -24,6 +24,7 @@ Aspiring developer with philosophy degree / Student at @Boolean Careers
 <img align='left' alt='PHP' title="PHP" src="https://www.php.net/images/logos/php-logo-white.svg" width='35'>
 <img align='left' alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='35'>
 <img align='left' alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
+<img align='left' alt='Wordpress' title='Wordpress' src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="35">
 <br/>
 <br/>
 
