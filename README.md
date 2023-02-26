@@ -31,9 +31,8 @@ _Languages, Tools & Frameworks:_
 
 <img align='left' src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square" align="center" />
 <br/>
-
-
 <img align='left' src="https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=apprentice&showicons=true" />
+<br/>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=apprentice" />
 
 
