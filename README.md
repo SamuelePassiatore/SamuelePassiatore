@@ -1,8 +1,6 @@
 # Hello World, I'm [Samuele](https://github.com/SamuelePassiatore)
 
-# Junior Web Developer
-
-Aspiring developer with philosophy degree and passion for blockchain and chess 
+Junior Web Developer with philosophy degree and passion for blockchain and chess 
 <br/>
 Student at @Boolean Careers
 
