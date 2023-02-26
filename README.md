@@ -1,4 +1,4 @@
-<img alt='code' title="code" src="https://imgs.search.brave.com/W3NA70Ez95I69GTD-rbfrAbWw9NYQQb7_0l-MXerkME/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTEx/MTk0Ni5qcGc" style="height: 200px; width:100%; background-size: cover;" >
+<img alt='code' title="code" src="https://imgs.search.brave.com/W3NA70Ez95I69GTD-rbfrAbWw9NYQQb7_0l-MXerkME/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTEx/MTk0Ni5qcGc" style="height: 300px; width:100%; background-size: cover;" >
 
 # Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
