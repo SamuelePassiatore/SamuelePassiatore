@@ -1,4 +1,4 @@
-<img alt='code' title="code" src="[C:\Users\samuw\Pictures\coder.webp](https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png)" style="height: 200px; width:100%;" >
+<img alt='code' title="code" src="https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png" style="height: 200px; width:100%;" >
 
 # Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
