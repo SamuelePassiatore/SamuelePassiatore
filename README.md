@@ -1,5 +1,3 @@
-<img alt='code' title="code" src="https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png" style="height: 300px; width:100%;" >
-
 # Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
 Aspiring developer with philosophy degree / Student at @Boolean Careers
