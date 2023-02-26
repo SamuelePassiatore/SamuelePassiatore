@@ -29,10 +29,10 @@ _Languages, Tools & Frameworks:_
 
 ---
 
-<img align='center' src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
+<img align='left' src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
 
-<img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=apprentice&showicons=true" />
-<img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=apprentice" />
+<img align='left' src="https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=apprentice&showicons=true" />
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=apprentice" />
 
 
 
