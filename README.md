@@ -1,6 +1,8 @@
 # Hello World, I'm [Samuele](https://github.com/SamuelePassiatore)
 
-Aspiring developer with philosophy degree and passion for blockchain and chess / Student at @Boolean Careers
+Aspiring developer with philosophy degree and passion for blockchain and chess 
+<br/>
+Student at @Boolean Careers
 
 [<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="35">](https://www.linkedin.com/in/samuele-passiatore-dev)
 
