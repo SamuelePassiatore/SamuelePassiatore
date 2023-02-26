@@ -4,7 +4,10 @@ Junior Web Developer with philosophy degree and passion for blockchain and chess
 <br/>
 Student at @Boolean Careers
 
-How to reach me [samuw978@gmail.com](mailto:samuw978@gmail.com) or [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="35">](https://www.linkedin.com/in/samuele-passiatore-dev)
+How to reach me [samuw978@gmail.com](mailto:samuw978@gmail.com) or 
+<a href="https://www.linkedin.com/in/samuele-passiatore-dev" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
 
 <br/>
 
