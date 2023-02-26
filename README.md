@@ -1,14 +1,13 @@
 # Hello World, I'm [Samuele](https://github.com/SamuelePassiatore)
 
-Junior Web Developer with philosophy degree and passion for blockchain and chess 
+Junior Web Developer with philosophy degree and passion for blockchain and chess. 
 <br/>
-Student at @Boolean Careers
-<br/>
-
-How to reach me [samuw978@gmail.com](mailto:samuw978@gmail.com) 
+Student at @Boolean Careers.
 <br/>
 
-[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="35">](https://www.linkedin.com/in/samuele-passiatore-dev)
+How to reach Me:
+
+[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](https://www.linkedin.com/in/samuele-passiatore-dev)
 <br/>
 
 ---
