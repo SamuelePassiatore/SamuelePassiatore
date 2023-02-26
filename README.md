@@ -1,18 +1,17 @@
 # Hello World, I'm [Samuele](https://github.com/SamuelePassiatore)
 
-Junior Web Developer with philosophy degree and passion for blockchain and chess. 
+Junior Web Developer with philosophy degree and passion for blockchain and chess
 <br/>
-Student at @Boolean Careers.
+Student at @Boolean Careers
 <br/>
 
 How to reach Me:
 
 [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](https://www.linkedin.com/in/samuele-passiatore-dev)
-<br/>
 
 ---
 
-*Languages, Tools & Frameworks:*
+_Languages, Tools & Frameworks:_
 
 <img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='40'>
 <img align='left' alt='HTML' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='40'>
@@ -30,15 +29,10 @@ How to reach Me:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
- 
----
+<img align='center' src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
 
-<div style="display:flex;">
- <img width='50%'; src="https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=apprentice&showicons=true" />
- <img width='50%'; src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=apprentice" />
-</div>
-
+<img style="width: 50%; height: 200px;" src="https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=apprentice&showicons=true" />
+<img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelePassiatore&langs_count=5&theme=apprentice" />
 
 
 
