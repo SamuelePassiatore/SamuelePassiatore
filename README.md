@@ -29,7 +29,9 @@ _Languages, Tools & Frameworks:_
 
 ---
 
-<img align='center' src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square" align="center" />
+</div>  
 
 <br/>
 
