@@ -28,6 +28,10 @@ How to reach me [samuw978@gmail.com](mailto:samuw978@gmail.com) or [<img src="ht
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
+ 
+---
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SamuelePassiatore&count_private=true&theme=apprentice&showicons=true)]()
 
 ---
