@@ -6,9 +6,9 @@ Student at @Boolean Careers
 <br/>
 
 How to reach Me:
-
 [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30">](https://www.linkedin.com/in/samuele-passiatore-dev)
 
+<img align='left' src="https://komarev.com/ghpvc/?username=SamuelePassiatore&&style=flat-square"/>
 ---
 
 _Languages, Tools & Frameworks:_
