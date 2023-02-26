@@ -1,4 +1,4 @@
-<img alt='code' title="code" src="\immagini\coder.webp" style="height: 250px; width:100%; background-size: cover; " >
+<img alt='code' title="code" src="/Users/samuw/Pictures/coder.webp" style="height: 250px; width:100%; background-size: cover; " >
 
 # Hello World, I'm [Samuele Passiatore](https://github.com/SamuelePassiatore)
 
