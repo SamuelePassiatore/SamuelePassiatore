@@ -13,7 +13,7 @@ _Languages, Tools & Frameworks:_
 <img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='40'>
 <img align='left' alt='HTML' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='40'>
 <img align='left' alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='40'>
-<img align='left' alt='SASS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='40'>
+<img align='left' alt='SASS' title="SCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width='40'>
 <img align='left' alt='Bootstrap' title="Bootstrap" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width='40'>
 <img align='left' alt='Javascript' title="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40">
 <img align='left' alt='Vue.js' title="Vue.js" src="https://vuejs.org/images/logo.png" width='40'>
