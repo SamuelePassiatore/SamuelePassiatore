@@ -20,7 +20,9 @@ _Languages, Tools & Frameworks:_
 <img align='left' alt='PHP' title="PHP" src="https://www.php.net/images/logos/php-logo-white.svg" width='40'>
 <img align='left' alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='40'>
 <img align='left' alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='40'>
-<img align='left' alt='Wordpress' title='Wordpress' src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40">
+<img align='left' alt='Wordpress' title='Wordpress' src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40">
+<img align='left' alt='Java' title='Java' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img align='left' alt='Spring' title='Spring' src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> 
 <br/>
 <br/>
 
