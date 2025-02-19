@@ -4,8 +4,8 @@ Dev at [Gorilli](https://www.gorilli.io/it)<br>
 
 Philosophy degree | Strongly passionate about blockchain, chess, finance and much more | Very close to any form of knowledge and technological progress.
 
-Note: This profile has limited activity as it represents only a portion of my personal projects.
-      Most of my contributions are in private organizational repositories where I have worked and currently work daily.<br>
+This profile has limited activity as it represents only a portion of my personal projects.
+Most of my contributions are in private organizational repositories where I have worked and currently work daily.<br>
 
 You can find me here:
 * Email: [samuw.978@gmail.com](mailto:samuw.978@gmail.com)<br>
