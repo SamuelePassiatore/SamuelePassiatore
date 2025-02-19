@@ -1,9 +1,8 @@
 Hello World, I'm Samuele.<br>
 
-Dev at [gorilli](https://www.gorilli.io/it)<br>
-Philosophy degree<br>
-Strongly passionate about blockchain, chess, finance and much more.<br>
-Very close to any form of knowledge and technological progress.<br>
+Dev at [Gorilli](https://www.gorilli.io/it)<br>
+
+Philosophy degree | Strongly passionate about blockchain, chess, finance and much more | Very close to any form of knowledge and technological progress.
 
 > This profile has limited activity as it represents only a portion of my personal projects.<br>
 > Most of my contributions are in private organizational repositories where I have worked and currently work daily.<br>
