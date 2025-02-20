@@ -1,6 +1,6 @@
 Hello World, I'm Samuele.<br>
 
-Developer at [Gorilli](https://www.gorilli.io/it)<br>
+Developer at [Gorilli](https://www.gorilli.io/en)<br>
 
 Philosophy degree. Strongly passionate about blockchain, chess and finance. Very close to any form of knowledge and technological progress.<br>
 
